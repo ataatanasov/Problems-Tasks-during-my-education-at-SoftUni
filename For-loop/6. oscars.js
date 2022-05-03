@@ -26,17 +26,7 @@ function oscars(input) { // this one is without a Boolean flag, apparently it wo
         console.log(`Sorry, ${actor} you need ${diff.toFixed(1)} more!`)
     }
 }
-oscars(["Zahari Baharov",
-"205",
-"4",
-"Johnny Depp",
-"45",
-"Will Smith",
-"29",
-"Jet Lee",
-"10",
-"Matthew Mcconaughey",
-"39"])
+oscars()
 
 
 
