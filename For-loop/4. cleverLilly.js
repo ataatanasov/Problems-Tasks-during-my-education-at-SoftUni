@@ -26,7 +26,5 @@ function cleverLilly(input){
     }
 
 }
-cleverLilly(["21",
-"1570.98",
-"3"])
+cleverLilly()
 
