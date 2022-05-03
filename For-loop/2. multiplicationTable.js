@@ -6,4 +6,4 @@ function multiplicationTable(input){
         console.log(`${i} * ${num} = ${res}`)
     }
 }
-multiplicationTable(["1000"])
+multiplicationTable()
