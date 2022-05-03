@@ -28,12 +28,6 @@ function tennis(input) {
     let winPercentage = (winCount / tournamentCount) * 100;
     console.log(`${winPercentage.toFixed(2)}%`)
 }
-tennis(["5",
-"1400",
-"F",
-"SF",
-"W",
-"W",
-"SF"])
+tennis()
 
 
