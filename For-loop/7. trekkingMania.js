@@ -39,6 +39,6 @@ function trekkingMania(input) {
     console.log(everestGroupPercentage.toFixed(2) + '%');
 }
 
-trekkingMania
+trekkingMania()
 
 
