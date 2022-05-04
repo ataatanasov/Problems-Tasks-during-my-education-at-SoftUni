@@ -1,2 +1,2 @@
-# Problems-Tasks-during-my-education-at-SoftUni
-This repo aims to show the various homework assignments that I have solved in the form of tasks or 'problems' during my training at SoftUni. The various challenges required some basic, fundamental and advanced knowledge. Some of them include for-loop, others while-loop, and some with nested loops. Of course, some of them are solved with arrays, regular expressions and string processing.
+# Programming-Basics-Problems-Tasks-during-my-education-at-SoftUni
+This repo aims to show the various homework assignments that I have solved in the form of tasks or 'problems' during my programming basics training at SoftUni. The various challenges required some basic, fundamental and advanced knowledge. Some of them include for-loop, others while-loop, and some with nested loops. Of course, some of them are solved with arrays, regular expressions and string processing.
